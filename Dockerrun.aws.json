@@ -1,7 +1,0 @@
-{
-  "AWSEBDockerrunVersion": "3",
-  "Logging": "/usr/logging",
-  "Image": {
-    "Update": "false"
-  }
-}
